@@ -30,9 +30,9 @@ Ces scripts communiquent directement avec la partie serveur de fichiers : la cr√
 
 ## Repos li√©s
 
-- `ad-structuration-annuaire`
-- `dfs-habilitations-powershell`
-- `ad-gpo`
+- [`ad-structuration-annuaire`](https://github.com/L-VSIX/ad-structuration-annuaire)
+- [`dfs-habilitations-powershell`](https://github.com/L-VSIX/dfs-habilitations-powershell)
+- [`ad-gpo`](https://github.com/L-VSIX/ad-gpo)
 
 ## Auteur
 
